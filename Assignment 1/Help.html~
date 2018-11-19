@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Area</title>
+	<link rel="stylesheet" href="normalize.css">
+</head>
+
+<body id="Help">
+
+<header>
+	<h1>Menu</h1>
+	<p id="name">Chan Ken Lok & Eddie Chieng Siew Kin</p>
+</header>
+
+<nav>
+	<ul>
+		<li><a href="Home.html">Home</a></li>
+		<li><a href="Typical.html">Typical Week</a></li>
+			<ul>
+				<li><a href="Ticket.html">Buying Ticket</a></li>
+				<li><a href="Help.html">Asking Help</a></li>
+			</ul>
+		<li><a href="Contact.html">Contact</a></li>
+		<li><a href="Area.html">Area</a></li>
+			<ul>
+				<li><a href="SSiD.html">SSiD</a></li>
+				<li><a href="Santander.html">Santander Bank</a></li>
+			</ul>
+		<li><a href="Eating.html">Eating</a></li>
+			<ul>
+				<li><a href="Shop.html">Our Shop</a></li>
+				<li><a href="Restaurant.html">Restaurant</a></li>
+				<li><a href="Central.html">Uni Central</a></li>
+			</ul>
+		<li><a href="Accessibility.html">Accessibility</a></li>
+	</ul>
+</nav>
+
+<main>
+	<h1>When you want to ask for help</h1>
+	<p>When you have a problem, you should go seek for help.I only can give a few examples.</p>
+	<p>You can go to the finance department in the SU building when you want to pay your tuition fees or you want to ask about the scholarship for more detail.</p>
+		<img src="" alt"The Financial Department" width="200">
+	<p>This will be the official website if you want to seek for help<a href="https://www.sheffield.ac.uk/ssid/index">https://www.sheffield.ac.uk/ssid/index</a></p>
+	</main>
+	
+<footer>
+	<p>&copy; Chan Ken Lok , 2018</p>
+</footer>
+</body>
+</html>
+	

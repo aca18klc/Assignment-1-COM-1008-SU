@@ -1,0 +1,119 @@
+/* ~~~~~~~~~~~~~~~~~~~~general tags~~~~~~~~~~~~~~~~~ */
+
+body {
+    background-color: white;
+    color: black;
+    font-family: Cursive;
+    line-height: normal;
+    text-align: left;
+    min-width: 310px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1em;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~header~~~~~~~~~~~~~~~~~~~~~~~ */
+
+header {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+header h1 {
+    margin: 0;
+    padding: 3% 5%;
+    color: white;
+    font-size: 2.5em;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~navigation~~~~~~~~~~~~~~~~~~~ */
+
+nav {
+    margin: 0;
+    padding: 0 0 0 5%;
+    width: 20%;
+    display: inline-block;
+    clear: both;
+}
+
+nav h1 {
+    margin: 0;
+    padding: 10px 20px;
+    font-size: 1.5em;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0 30px 10px 30px;
+}
+
+nav ul li {
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav a:link {
+    color: black;
+}
+
+nav a:visited {
+    color: darkgray;
+}
+
+nav a:hover {
+    color: deepskyblue;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~main content~~~~~~~~~~~~~~~~~ */
+
+main {
+    margin: 0;
+    padding: 0;
+    width: 75%;
+    display: inline-block;
+    float: right;
+    clear: both;
+    flex: q1 0 auto;
+}
+
+main h1 {
+    font-size: 1.7em;
+    text-align: center;
+}
+
+main figure img {
+    display: block;
+    margin: 0 auto;
+}
+
+main figcaption {
+    text-align: center;
+}
+
+.column{
+	float: left;
+	width:33.33%;
+	padding: 5px:
+}
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~footer~~~~~~~~~~~~~~~~~~~~~~~ */
+
+footer {
+    text-align: center ;  
+    position: fixed;
+    bottom: 0;
+    padding: 1em;
+    width: 100%;
+    flex-shrink: 0;
+    border-top: 1px solid gray;
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang=eng>
+
+<head>
+	<meta charset="utf-8">
+	<title>Accessibility</title>
+	<link rel="stylesheet" href="normalize.css">
+</head>
+
+<body>
+
+<header>
+	<h1>Menu</h1>
+	<p id="name">Chan Ken Lok & Eddie Chieng Siew Kin</p>
+</header>
+
+<nav>
+	<ul>
+		<li><a href="Home.html">Home</a></li>
+		<li><a href="Typical.html">Typical Week</a></li>
+			<ul>
+				<li><a href="Ticket.html">Buying Ticket</a></li>
+				<li><a href="Help.html">Asking Help</a></li>
+			</ul>
+		<li><a href="Contact.html">Contact</a></li>
+		<li><a href="Area.html">Area</a></li>
+			<ul>
+				<li><a href="SSiD.html">SSiD</a></li>
+				<li><a href="Santander.html">Santander Bank</a></li>
+			</ul>
+		<li><a href="Eating.html">Eating</a></li>
+			<ul>
+				<li><a href="Shop.html">Our Shop</a></li>
+				<li><a href="Restaurant.html">restaurant</a></li>
+				<li><a href="Central.html">Uni Central</a></li>
+			</ul>
+		<li><a href="Accessibility.html">Accessibility</a></li>
+	</ul>
+</nav>
+
+<main>
+	<h1>Accessibility</h1>
+	<p>In all the webpages, we have black background for the header, footer and menu. The content will be in white background instead.</p>
+	<p>The purpose of this design is to make it easier for people to read and avoid confusion. It doesn't affect color blind people that much as well.</p>
+	<p>We apologise if the images cause any inconvenience to color blind people. The images are only for reference purpose.</p>
+	<p>For further details, please go to the official website of <a href="https://su.sheffield.ac.uk/">Student Union</a>.</p>
+</main>
+
+</body>
+
+<footer>
+ <p>&copy;Eddie Chieng Siew Kin, 2018</p>
+</footer>
+</body>
+</html>

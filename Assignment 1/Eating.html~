@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang=eng>
+
+<head>
+	<meta charset="utf-8">
+	<title>Eating</title>
+	<link rel="stylesheet" href="normalize.css">
+</head>
+
+<body>
+
+<header>
+	<h1>Menu</h1>
+	<p id="name">Chan Ken Lok & Eddie Chieng Siew Kin</p>
+</header>
+
+<nav>
+	<ul>
+		<li><a href="Home.html">Home</a></li>
+		<li><a href="Typical.html">Typical Week</a></li>
+			<ul>
+				<li><a href="Ticket.html">Buying Ticket</a></li>
+				<li><a href="Help.html">Asking Help</a></li>
+			</ul>
+		<li><a href="Contact.html">Contact</a></li>
+		<li><a href="Area.html">Area</a></li>
+			<ul>
+				<li><a href="SSiD.html">SSiD</a></li>
+				<li><a href="Santander.html">Santander Bank</a></li>
+			</ul>
+		<li><a href="Eating.html">Eating</a></li>
+			<ul>
+				<li><a href="Shop.html">Our Shop</a></li>
+				<li><a href="Restaurant.html">Restaurant</a></li>
+				<li><a href="Central.html">Uni Central</a></li>
+			</ul>
+		<li><a href="Accessibility.html">Accessibility</a></li>
+	</ul>
+</nav>
+
+<main>
+	<h1>Food available</h1>
+		<p>There are lots of different choices of food available in Students' Union. </p>
+		<p>This is the <a href="Cafeteria.html">cafeteria</a> of Students' Union. It is also a great place to hang out with friends</p>
+			<img src="Cafeteria.jpg" alt"Cafeteria" width="100">
+			<img src="Cafe entrance.jpg" alt"Cafe Entrance" width="100">
+		<p>You can get almost any kind of stationary in <a href="Shop.html">Our Shop</a> located next to the reception of Students' Union. They also sell variety of food, drink and snacks. Do visit it and have a look!</p>
+			<img src="Our shop.jpg" alt"Our Shop" width="100">
+		<p>On top of that, we also have some really nice restaurants which are worth trying. Below are some examples, for more details please go to <a href="Restaurant">restaurants in Students' Union</a>.</p>
+			<img src="Grill&Co.jpg" alt "Grill&Co" width="100">
+			<img src="New Leaf.jpg" alt "New Leaf" width="100">
+</main>
+
+
+
+<footer>
+ <p>&copy;Eddie Chieng Siew Kin, 2018</p>
+</footer>
+</body>
+</html>
+

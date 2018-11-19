@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Area</title>
+	<link rel="stylesheet" href="normalize.css">
+</head>
+
+<body id="Area">
+
+<header>
+	<h1>Menu</h1>
+	<p id="name">Chan Ken Lok & Eddie Chieng Siew Kin</p>
+</header>
+
+<nav>
+	<ul>
+		<li><a href="Home.html">Home</a></li>
+		<li><a href="Typical.html">Typical Week</a></li>
+			<ul>
+				<li><a href="Ticket.html">Buying Ticket</a></li>
+				<li><a href="Help.html">Asking Help</a></li>
+			</ul>
+		<li><a href="Contact.html">Contact</a></li>
+		<li><a href="Area.html">Area</a></li>
+			<ul>
+				<li><a href="SSiD.html">SSiD</a></li>
+				<li><a href="Santander.html">Santander Bank</a></li>
+			</ul>
+		<li><a href="Eating.html">Eating</a></li>
+			<ul>
+				<li><a href="Shop.html">Our Shop</a></li>
+				<li><a href="Restaurant.html">Restaurant</a></li>
+				<li><a href="Central.html">Uni Central</a></li>
+			</ul>
+		<li><a href="Accessibility.html">Accessibility</a></li>
+	</ul>
+</nav>
+
+<main>
+	<h1>The area that you would use it often</h1>
+	<p>There will be a time that you will use these area.But you have no idea what are you gonna do with these area.Well,we are here to help you.</p>
+	<p>Here are some images that will help you to identify which area you are at</p>
+		<img src="Reception.html" alt"The reception" width="100">
+	<p>This will be the <a href="Santander.html">Santander Bank</a></p>
+	<p>if you haven't open bank,then what are you doing here??Go open one bank account to keep all the money.But first you need a bank letter from <a href="SSiD.html">the SSiD</a></p>
+</main>
+	
+<footer>
+	<p>&copy; Chan Ken Lok , 2018</p>
+</footer>
+</body>
+</html>
+	
+	
